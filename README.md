@@ -79,5 +79,3 @@ Food Recipe App/
 
 ---
 
-## 👩‍💻 Author
-assionate web developer focused on creating interactive and user-friendly web experiences.
