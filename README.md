@@ -7,13 +7,13 @@ It includes user authentication (Login & Signup), voice-based search, and a wish
 
 ## 🚀 Features
 
-✅ **User Authentication** – Secure login and signup pages for personalized access.  
-✅ **Recipe Categories** – Browse recipes neatly organized into different categories.  
-✅ **Search Recipes** – Instantly find any recipe by name or ingredients.  
-✅ **View Recipe Details** – Each recipe includes full details like ingredients, steps, and images.  
-✅ **Wishlist Feature** – Save your favorite recipes for quick access later.  
-✅ **Voice Search** – Search recipes hands-free using voice commands.  
-✅ **Responsive Design** – Works smoothly across desktop, tablet, and mobile screens.
+ **User Authentication** – Secure login and signup pages for personalized access.  
+ **Recipe Categories** – Browse recipes neatly organized into different categories.  
+ **Search Recipes** – Instantly find any recipe by name or ingredients.  
+ **View Recipe Details** – Each recipe includes full details like ingredients, steps, and images.  
+ **Wishlist Feature** – Save your favorite recipes for quick access later.  
+ **Voice Search** – Search recipes hands-free using voice commands.  
+ **Responsive Design** – Works smoothly across desktop, tablet, and mobile screens.
 
 ---
 
