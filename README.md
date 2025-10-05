@@ -54,7 +54,7 @@ Food Recipe App/
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/yourusername/Food-Recipe-Web-App.git
+   git clone https://github.com/darkseid208/Food-Recipe-Web-App.git
    ```
 
 2. **Open the project folder**
