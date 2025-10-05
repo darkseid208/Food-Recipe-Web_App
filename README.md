@@ -65,12 +65,6 @@ Food Recipe App/
 
 ---
 
-## 🖼️ Screenshots
-
-(Add screenshots here for better visual appeal, e.g. home page, categories, recipe view, and wishlist.)
-
----
-
 ## 💡 Future Improvements
 
 - Add a backend with database for real user data.  
