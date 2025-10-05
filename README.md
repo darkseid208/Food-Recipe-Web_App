@@ -11,7 +11,7 @@ The Food Recipe Web App is an interactive platform that allows users to explore,
  **View Recipe Details** – Each recipe includes full details like ingredients, steps, and images.  
  **Wishlist Feature** – Save your favorite recipes for quick access later.  
  **Voice Search** – Search recipes hands-free using voice commands.  
- **Responsive Design** – Works smoothly across desktop, tablet, and mobile screens.
+ **Responsive Design** – Works smoothly across desktop.
 
 ---
 
