@@ -36,7 +36,7 @@ Food Recipe App/
 ├── signup.html         # User signup page
 │
 ├── style.css           # Main styling
-├── c.css               # Additional category styling
+              
 ├── script.js           # Core functionality (recipes, search, wishlist, etc.)
 │
 ├── assets/             # (Images, icons, and video clips)
@@ -46,9 +46,7 @@ Food Recipe App/
 │   ├── v2.mp4, v12.mp4
 │
 └── README.md           # Project documentation
-```
 
----
 
 ## ⚙️ How to Run Locally
 
