@@ -48,7 +48,7 @@ Food Recipe App/
 └── README.md           # Project documentation
 
 
-## ⚙️ How to Run Locally
+1.## ⚙️ How to Run Locally
 
    ```
 
@@ -57,7 +57,7 @@ Food Recipe App/
    cd Food-Recipe-Web-App
    ```
 
-3. **Run the app**
+2. **Run the app**
    - Simply open `index.html` in your web browser.  
    - No server setup required.
 
