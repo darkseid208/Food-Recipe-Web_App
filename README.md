@@ -52,12 +52,9 @@ Food Recipe App/
 
 ## ⚙️ How to Run Locally
 
-1. **Clone this repository**
-   ```bash
-   git clone https://github.com/darkseid208/Food-Recipe-Web-App.git
    ```
 
-2. **Open the project folder**
+**Open the project folder**
    ```bash
    cd Food-Recipe-Web-App
    ```
