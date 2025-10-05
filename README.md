@@ -1,8 +1,6 @@
 # 🍽️ Food Recipe Web App
 
-A **responsive and interactive Food Recipe Web App** that allows users to explore, search, and view recipes by category.  
-It includes user authentication (Login & Signup), voice-based search, and a wishlist feature — all built using **HTML, CSS, and JavaScript**.
-
+The Food Recipe Web App is an interactive platform that allows users to explore, search, and save recipes from various cuisines worldwide. It offers a user-friendly interface to browse dishes by category, search by name, view detailed ingredients and cooking instructions, and save favorite recipes in a personal wishlist.
 ---
 
 ## 🚀 Features
